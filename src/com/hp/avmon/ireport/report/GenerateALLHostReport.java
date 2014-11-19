@@ -83,7 +83,7 @@ public class GenerateALLHostReport {
 //
 //	}
 	
-	public static void main(String[] args) throws IOException {
+/*	public static void main(String[] args) throws IOException {
 		
 		GenerateALLHostReport g = new GenerateALLHostReport();
 		
@@ -99,7 +99,7 @@ public class GenerateALLHostReport {
 		os.flush();
 		os.close();
 	}
-	
+	*/
 	
 	
 	
